@@ -1,4 +1,5 @@
 # Runner script for all modules
+from house_info import HouseInfo
 from load_data import load_sensor_data
 
 
